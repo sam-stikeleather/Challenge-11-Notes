@@ -1,0 +1,26 @@
+{
+  "name": "challenge-11-notes",
+  "version": "1.0.0",
+  "description": "Sam Stikeleather Challenge 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-stikeleather/Challenge-11-Notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-stikeleather/Challenge-11-Notes/issues"
+  },
+  "homepage": "https://github.com/sam-stikeleather/Challenge-11-Notes#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
