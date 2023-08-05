@@ -23,5 +23,6 @@
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
     "json-uuid": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
